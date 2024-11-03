@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**rgruyters/rgruyters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Robin Gruyters and live in the Netherlands. Working now as a DevOps and Platform Engineer at @suecodelabs.
 
-Here are some ideas to get you started:
+In my spare time I like to go to festivals and spent my time with friends and family.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Like to:
+
+- tinker in my [Neovim configuration](https://github.com/rgruyters/nvim)
+- program in Python and Go
+- find 🐛 and solve problems
+
+Current goals for 2025:
+
+- learn more by giving my 2¢ to open source
+- learn a new programming language (rust or zig)
+- write more on [my blog](https://nieuweavonturenvan.nl)
