@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Robin Gruyters and live in the Netherlands. Working now as a DevOps and Platform Engineer at @suecodelabs.
+My name is Robin Gruyters and live in the Netherlands. Working on design, build and deploy platform services for @suecodelabs.
 
 In my spare time I like to go to festivals and spent my time with friends and family.
 
