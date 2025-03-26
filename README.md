@@ -17,4 +17,4 @@ Current goals for 2025:
 - learn a new programming language (rust or zig)
 - write more on [my blog](https://nieuweavonturenvan.nl)
 
-Work hard, get smarter -- @theprimagen
+Work hard, get smarter -- [@theprimeagen](https://github.com/theprimeagen)
